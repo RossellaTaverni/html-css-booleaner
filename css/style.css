@@ -23,3 +23,25 @@ header{
     font-weight: lighter;
     line-height: 0%;
 }
+
+#Titolo-principale{
+    padding-top: 20px;
+}
+
+.informazioni{
+    color: gray;
+}
+
+#autore{
+    color: rgb(73, 205, 238);
+    display: inline;
+}
+
+.Tim{
+    padding-top: 20px;
+}
+
+.photo-information{
+    font-weight: 100px;
+    color: rgb(56, 55, 55);
+}
