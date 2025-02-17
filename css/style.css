@@ -45,3 +45,67 @@ header{
     font-weight: 100px;
     color: rgb(56, 55, 55);
 }
+
+p{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+ul{
+    padding-left: 20px;
+}
+
+table{
+    padding-top: 40px;
+}
+
+.tab1{
+    width: 25%;
+}
+
+.thead{
+    text-align: left;
+    
+}
+
+.cella1{
+    background-color: rgb(59, 173, 248);
+    color: #fff;
+}
+
+.cella2{
+    background-color: aquamarine;
+}
+
+.cella3{
+    background-color: aquamarine;
+}
+
+#info{
+    color: grey;
+    padding-bottom: 10px;
+}
+
+#immagine{
+    background-image: url(../img/monitor.jpg);
+    width: 270px;
+    height: 270px;
+    background-repeat: no-repeat;
+    color: #fff;
+    padding-top: 20px;
+    font-size: 30px;
+}
+
+#immagine2{
+    background-image: url(../img/graph.jpg);
+    width: 270px;
+    height: 270px;
+    background-repeat: no repeat;
+    color: #fff;
+    padding-top: 20px;
+    font-size: 30px;
+}
+
+
+
+
